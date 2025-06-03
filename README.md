@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Juan José López  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Full+Stack+Web;Autodidacta;Siempre+aprendiendo+nuevas+cosas&font=Pacifico&center=true&width=400&height=100&color=58a6ff&vCenter=true&size=25%22">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Full+Stack+Web;Soy+Autodidacta;Siempre+aprendiendo+nuevas+cosas&font=Pacifico&center=true&width=400&height=100&color=58a6ff&vCenter=true&size=25%22">
 </p>
 
-<p><img align="right" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animación" /></p>
 
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript**
@@ -13,7 +13,7 @@
   
 - 📫 Cómo contactarme: **chevike15@gmail.com**
   
-- ⚡ Qué me gusta hacer: **Me gusta ir al gimnasio, el voleibol y ver series... y programar en mis tiempos libres**
+- ⚡ Qué me gusta hacer: **ir al gimnasio, jugar voleibol, ver series y programar en mi tiempo libre**
 </br>
 </br>
 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Lenguajes de Programación y Tecnologías Web
 
-<p>
+<p align="center">
     <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java%20-007396.svg?logo=openjdk&logoColor=white"></a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-3776AB.svg?logo=python&logoColor=yellow"></a>
@@ -33,7 +33,7 @@
 
 ### 🧰 Frameworks y Librerías
 
-<p>
+<p align="center">
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black"></a>
     <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
     <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white"></a>
@@ -45,7 +45,7 @@
 
 ### 🗄️ Bases de Datos 
 
-<p>
+<p align="center">
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white"></a>
     <a href="https://www.microsoft.com/sql-server"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoft&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
@@ -55,7 +55,7 @@
 
 ### 💻 Software y Dev Tools
 
-<p>
+<p align="center">
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
@@ -66,9 +66,16 @@
     <a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
 </p>
 
-</br>
+<h2 align="center">
+  <img height="40" src="https://github.com/user-attachments/assets/e052a177-c2e7-4b9c-a2ed-8b7c2983b371">
+  Estadísticas de GitHub
+</h2>
 
+<p align="center">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=juanjo21-01&show_icons=true" alt="juanjo21-01 Stats">
+  <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo21-01" alt="juanjo21-01 Streaks">
+</p>
 
-<h2> <img height="40" src="https://github.com/user-attachments/assets/e052a177-c2e7-4b9c-a2ed-8b7c2983b371"> Estadísticas de GitHub:</h2>
-
-
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjo21-01&langs_count=8&layout=compact" alt="juanjo21-01 Top Languages">
+</p>
